@@ -1,6 +1,6 @@
 # ITM 295R Portfolio Service Project Purpose
 ITM 295R Portfolio Service Project engages students in service-learning opportunities to bless other lives by
-using the skills and knowledge they gained through their course of study in the CIT program. It
+using the skills and knowledge they gained through their course of study in their degree program. It
 is designed to help students achieve the mission of BYU-Idaho to – “develop disciples of Jesus
 Christ who are leaders in their homes, the Church, and their communities” ([University Mission
 Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
