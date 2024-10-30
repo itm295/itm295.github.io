@@ -1,6 +1,6 @@
-# CIT 295 Practicum/ITM 295 Portfolio Service Project Purpose
-CIT 295 Practicum/ITM 295 Portfolio Service Project engages students in service-learning opportunities to bless other lives by
-using the skills and knowledge they gained through their course of study in the CIT program. It
+# ITM 295 Portfolio Service Project Purpose
+ITM 295 Portfolio Service Project engages students in service-learning opportunities to bless other lives by
+using the skills and knowledge they gained through their course of study in their degree program. It
 is designed to help students achieve the mission of BYU-Idaho to – “develop disciples of Jesus
 Christ who are leaders in their homes, the Church, and their communities” ([University Mission
 Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
@@ -15,7 +15,7 @@ be spending 3 hours (or more) for your volunteer work each week to meet the 39
 minimum service hour requirement.
 
 ### 2. Keep a Weekly Journal
-Using the journal section your copy of the CIT 295 Project Proposal Template document, 
+Using the journal section your copy of the ITM 295R Project Proposal Template document, 
 - Report the hours you spent for that week as well as the running total (aka the Cumulative Total).
 - Record your accomplishments (what you did)
 - Write your personal reflective comments (how you felt or what you thought) at the end of each week. 
@@ -35,13 +35,13 @@ ill, you finished your project early, etc.), report what happened to you that we
 ### 3. Update Your Weekly Plan and Schedule
 By the time you record your journal for the week, most of you should know the specific
 tasks you need to perform the following week (and beyond). Add those tasks to the
-following week’s “Weekly Schedule” in your copy of the CIT 295 Project Proposal Template 
+following week’s “Weekly Schedule” in your copy of the ITM 295 Project Proposal Template 
 document and make necessary schedule adjustments.
 
 ### 4. Review Your Peer’s Weekly Journal
 There is much you can learn from the experience of your classmates as they engage in
 interesting projects. Beginning Week 2, you will be randomly assigned to review one of
-your peer's CIT 295 Project Proposal Template document each week. After reading
+your peer's ITM 295 Project Proposal Template document each week. After reading
 the project description and journal entries, give some thoughtful input or ask meaningful
 questions (more than just "Great job!" or "Keep up the good work!"), acknowledge
 his/her accomplishments, offer help, offer to introduce other people you know that might be
@@ -88,11 +88,11 @@ of, what obstacles you faced, how you overcome them, and what you learned. Guide
 presentation will be given in the Canvas course.
 
 ## Navigation
-1. [Course Learning Outcomes (CLOs)](https://cit295.github.io/course_learning_outcomes)
-2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
+1. [Course Learning Outcomes (CLOs)](https://itm295.github.io/course_learning_outcomes)
+2. [Project Proposal Requirements](https://itm295.github.io/proposal_requirements)
 3. **You are Here:** Course Work Requirements
-4. [Grading](https://cit295.github.io/grading)
-5. [Project Idea Examples](https://cit295.github.io/project_ideas)
-6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-7. [Project Report Examples](https://cit295.github.io/report_examples)
-8. [Service Opportunities](https://cit295.github.io/service_opportunities)
+4. [Grading](https://itm295.github.io/grading)
+5. [Project Idea Examples](https://itm295.github.io/project_ideas)
+6. [Project Proposal Examples](https://itm295.github.io/proposal_examples)
+7. [Project Report Examples](https://itm295.github.io/report_examples)
+8. [Service Opportunities](https://itm295.github.io/service_opportunities)
