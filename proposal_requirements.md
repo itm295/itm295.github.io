@@ -1,6 +1,6 @@
-# CIT 295 Practicum/ITM 295 Portfolio Service Project Purpose
-CIT 295 Practicum/ITM 295 Portfolio Service Project engages students in service-learning opportunities to bless other lives by
-using the skills and knowledge they gained through their course of study in the CIT program. It
+# ITM 295 Portfolio Service Project Purpose
+ITM 295 Portfolio Service Project engages students in service-learning opportunities to bless other lives by
+using the skills and knowledge they gained through their course of study in their degree program. It
 is designed to help students achieve the mission of BYU-Idaho to – “develop disciples of Jesus
 Christ who are leaders in their homes, the Church, and their communities” ([University Mission
 Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
@@ -8,7 +8,7 @@ Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 ## Project Proposal Requirements (Short Version or TL;DR)
 To register for the class, you will need to submit two documents:
 1. Write a proposal and receive an authorization from the course instructor. 
-2. Have your project beneficiary (the organization and/or person benefitting from the service) acknowledge compliance with applicable labor laws (in the United States, they can submit the [CIT 295 Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:b:/g/personal/kwg6_byui_edu/EdtlZDQalHVEtLuMXKSjsKMBRb52AV-dW3KGRQ10s7R67Q?e=5vZjTt)).
+2. Have your project beneficiary (the organization and/or person benefitting from the service) acknowledge compliance with applicable labor laws (in the United States, they can submit the [ITM 295R Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:w:/g/personal/kwg6_byui_edu/EeNBLv_W3WNPikdqkZL8MXcBoW-GjSQX1rebVDan04meIQ?e=X6NQbH)).
 
 ## Long version or Extended Detail version below
 The following paragraphs outline the requirements in greater detail .
@@ -18,7 +18,7 @@ engages you in a semester-long service project with the minimum of 39 hours of s
 (e.g. 3 hours/week on average). The volunteer service must be performed during the semester in 
 which you are registered. 
 
-**Finding Your Own Service Opportunity** By design (see [Course Learning Outcomes](https://cit295.github.io), 
+**Finding Your Own Service Opportunity** By design (see [Course Learning Outcomes](https://itm295.github.io), 
 students have the responsibility to find suitable service opportunities. The purpose here is to 
 create, develop, and/or reinforce the habit of seeking out opportunties to put what you are learning
 into practice to help, benefit, and bless your "neighbors" (see [Luke 10:29,36](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=eng&id=29,36#29))
@@ -35,10 +35,10 @@ needs of a specific organization or individual (referred to as the beneficiary).
 - A reactive only approach (e.g. working as a security analyst only if security events are reported), 
 reactive work is allowable as a component of a plan as long as you have other proactive work that you can do
 that is within your control to complete.
-- Providing service for your current employer is a conflict of interest and is not permitted. Working outside of your normal hours without pay does not constitute a volunteer service and it will not qualify for CIT 295 Practicum course.
+- Providing service for your current employer is a conflict of interest and is not permitted. Working outside of your normal hours without pay does not constitute a volunteer service and it will not qualify for the course.
 
-**CIT Related** Your volunteer service must be directly related to one of the disciplines of CIT (web design and
-development, networking, database administration, programming, security, system
+**Degree Program Related** Your volunteer service must be directly related to one of the disciplines of your degree program (web design and
+development, cybersecurity, cloud computing, networking, database administration, programming, system
 administration, systems analysis and design, project management, etc).
 The volunteer service may be with any public, government, for profit or non-profit organization,
 or individual with needs, with the exception of BYU-Idaho or BYU-Idaho students. Further restrictions 
@@ -49,15 +49,14 @@ tech support, student support, market research, SOC analyst, tutor, etc.).
 
 **Attestation for No Compensation** Ask your project sponsor confirm the volunteer nature of 
 your service along with their compliance with applicable laws in the United States or the 
-country(ies) involved using the provided [CIT 295 Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:b:/g/personal/kwg6_byui_edu/EdtlZDQalHVEtLuMXKSjsKMBRb52AV-dW3KGRQ10s7R67Q?e=5vZjTt) form or writing
-their own letter to that effect and send it to [cit295@byui.edu](mailto:cit295@byui.edu). If you choose to find a
+country(ies) involved using the provided [ITM 295R Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:w:/g/personal/kwg6_byui_edu/EeNBLv_W3WNPikdqkZL8MXcBoW-GjSQX1rebVDan04meIQ?e=X6NQbH) form or writing
+their own letter to that effect and send it to [itm295@byui.edu](mailto:itm295@byui.edu). If you choose to find a
 project sponsor in your home country or outside of the US, you may volunteer for any type of
 organization, including non-government and for-profit organizations as long as the nature of your
 service follows any legal guidelines or frameworks in that country.
 
-**Proposal** Using the [CIT 295 Project Proposal Template](
-https://webmailbyui-my.sharepoint.com/:w:/g/personal/kwg6_byui_edu/EdPa8RcFIapCmV_dXcCBu_EBQg1gU6-3d7yImB2nKVfaAw)
-document, submit your proposal to [cit295@byui.edu](mailto:cit295@byui.edu)
+**Proposal** Using the [ITM 295R Project Proposal Template](https://webmailbyui-my.sharepoint.com/:w:/r/personal/kwg6_byui_edu/Documents/ITM295R/ITM%20295R%20Project%20Proposal%20Template.docx?d=w41288da378544a469e53ce1aac2c4b2e&csf=1&web=1&e=iBBAib)
+document, submit your proposal to [itm295@byui.edu](mailto:itm295@byui.edu)
 prior to the beginning of the semester in which you plan to take the course. Upon approval,
 you will receive an authorization to register for the course. All students will be admitted to the
 class (no waiting list) so long as their project proposals are approved.
@@ -76,9 +75,9 @@ for the project sponsor. By the time you finish creating the proposal document, 
 should have at least a general idea of what you hope to be doing during the first
 week of the semester, the second week, the third week and how much time you plan to invest each week. 
 Some weeks will likely be heavier than others and that is perfectly acceptable. Your action plan
-should be documented as “goals” and “tasks” under the “Weekly Plan” in the [CIT 295
-Project Proposal](https://webmailbyui-my.sharepoint.com/:w:/r/personal/kwg6_byui_edu/Documents/CIT%20295/CIT%20295%20Project%20Proposal%20Template.docx?d=w17f1dad3210542aa995fdd5dc081bbf1&csf=1&web=1&e=gmD9kn) document. While the majority of the service projects
-students engage in require a detailed planning ahead of time, some don’t. If your service
+should be documented as “goals” and “tasks” under the “Weekly Plan” in the [ITM 295R
+Project Proposal](https://webmailbyui-my.sharepoint.com/:w:/r/personal/kwg6_byui_edu/Documents/ITM295R/ITM%20295R%20Project%20Proposal%20Template.docx?d=w41288da378544a469e53ce1aac2c4b2e&csf=1&web=1&e=hzPime) 
+document. While the majority of the service projects students engage in require a detailed planning ahead of time, some don’t. If your service
 is such that you only provide labor without planning or design (e.g. respond to IT tickets
 as an IT helpdesk technician), your “goals” for the “Weekly Plan” for all 13 weeks may be
 a statement of general tasks you will perform (e.g. “Process IT tickets which will be
@@ -87,11 +86,11 @@ technology-related work you can do during down times if you are planning such a 
 approach.
 
 ## Navigation
-1. [Course Learning Outcomes (CLOs)](https://cit295.github.io/course_learning_outcomes)
+1. [Course Learning Outcomes (CLOs)](https://itm295.github.io/course_learning_outcomes)
 2. **You are Here:** Project Proposal Requirements
-3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
-4. [Grading](https://cit295.github.io/grading)
-5. [Project Idea Examples](https://cit295.github.io/project_ideas)
-6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-7. [Project Report Examples](https://cit295.github.io/report_examples)
-8. [Service Opportunities](https://cit295.github.io/service_opportunities)
+3. [Course Work Requirements](https://itm295.github.io/course_work_requirements)
+4. [Grading](https://itm295.github.io/grading)
+5. [Project Idea Examples](https://itm295.github.io/project_ideas)
+6. [Project Proposal Examples](https://itm295.github.io/proposal_examples)
+7. [Project Report Examples](https://itm295.github.io/report_examples)
+8. [Service Opportunities](https://itm295.github.io/service_opportunities)
