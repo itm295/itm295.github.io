@@ -9,7 +9,8 @@ Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 - (ongoing) Teton County IT Department is seeking volunteer help if 
 you are here in the Rexburg area. They are willing to even drive you up to Driggs 4 times during 
 a semester if you are willing. See [https://www.tetoncountyidaho.gov/departments](https://www.tetoncountyidaho.gov/departments/information_technology/index.php)
-and contact Russ Barnum at [rbarnum@co.teton.id.us](mailto:rbarnum@co.teton.id.us)
+and contact Russ Barnum at [rbarnum@co.teton.id.us](mailto:rbarnum@co.teton.id.us). Teton County can
+typically only take on 4-6 students each semester so contact them early.
 - (ongoing) **Open Source Cemetery Web Application Development** 
 
 ## Navigation
